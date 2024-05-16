@@ -1,3 +1,4 @@
+//author@JayaSingh
 #include <iostream>
 #include "Binary.h"
 using namespace std;
